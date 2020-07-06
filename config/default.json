@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://milan111:milan111@connect.e6jrt.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://milan111:milan111@connect.e6jrt.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
